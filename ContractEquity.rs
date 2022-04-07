@@ -3,8 +3,8 @@ Schema {
     root_id: none!(),
     genesis: GenesisSchema {
         metadata: type_map! {
-            FieldType::Ticker => L2
-            FieldType::Name => Layer2labs,
+            FieldType::Ticker => EQ
+            FieldType::Name => Equity,
             FieldType::ContractText => NoneOrOnce,
             FieldType::Precision => Once,
             FieldType::Timestamp => 2,
