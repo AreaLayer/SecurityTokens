@@ -12,3 +12,6 @@ Like this how happening on Liquid Network, but form of Sidechain. Now we will go
 - Collateral by BTC
 - Gaming
 
+# Runing Node RGB
+
+Source: https://github.com/Layer2Labs/rgb-node/blob/master/README.md
