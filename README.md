@@ -10,7 +10,8 @@ Like this how happening on Liquid Network, but form of Sidechain. Now we will go
 - Real State;
 - Peg in/out BTC;
 - Collateral by BTC;
-- Gaming.
+- Gaming;
+- Lending.
 
 # Runing Node RGB
 
