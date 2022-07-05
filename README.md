@@ -18,4 +18,4 @@ Like this how happening on Liquid Network, but form of Sidechain. Now we will go
 Source: https://github.com/Layer2Labs/rgb-node/blob/master/README.md
  
  # Disclaimer
- This product will be released soon
+ This product will be released soon. Build a new system on Bitcoin
