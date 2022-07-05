@@ -16,7 +16,7 @@ Like this how happening on Liquid Network, but form of Sidechain. Now we will go
 - Gaming;
 - Lending.
 
-# COmpliance with KYC/AML to Entity
+# Compliance with KYC/AML to Entity
 
 # Runing Node RGB
 
