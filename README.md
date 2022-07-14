@@ -18,6 +18,8 @@ Like this how happening on Liquid Network, but form of Sidechain. Now we will go
 
 # Compliance with KYC/AML to Entity
 
+Entity will have KYC/AML and people also on https://autheid.com/
+
 # Runing Node RGB
 
 Source: https://github.com/Layer2Labs/rgb-node/blob/master/README.md
